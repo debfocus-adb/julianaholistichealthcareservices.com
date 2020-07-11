@@ -1,0 +1,80 @@
+.history{
+    padding: 10px 0;
+}
+.history h4{
+    text-align: center;
+}
+
+.Objectives{
+    padding: 10px 0
+}
+
+.Objectives h4{
+    text-align: center;
+}
+
+.mission div{
+    background-color: rgb(144, 198, 200);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.goals{
+    margin-top: 20px;
+    padding: 15px 0;
+}
+.goals h4{
+    text-align: center;
+}
+
+.ceo{
+    margin-top: 20px;
+}
+
+.ceo h4{
+    text-align: center;
+}
+
+.registra{
+    margin-top: 10px;
+}
+
+.registra h4{
+    text-align: center;
+}
+
+.others{
+    margin-top: 20px;
+    padding: 15px 0;
+}
+
+.others h4{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+/*arrowup*/
+a .arrowup {
+    width: 60px;
+    text-align: center;
+    background-color: green;
+    border: 1px solid rgb(244, 299, 170);
+    font-size: 40px;
+    position: fixed;
+    bottom: 100px;
+    right: 30px;
+    border-radius: 50%;
+    display: none;
+    z-index: 1000;
+}
+
+.anchorarr {
+    color: white;
+    text-decoration: none;
+}
+
+.anchorarr:hover{
+    color: rgb(244, 299, 170);
+}
